@@ -8,6 +8,9 @@ A continuación, se adjunta la evidencia del correcto arranque de xv6 provando l
 la ejecución de los comandos secuenciales solicitados (`ls`, `echo`, `mkdir`, `cat`, redirección y `wc`):
 
 ![Arranque de xv6 y comandos de la Parte A - Inicio](imgs/parteA_1.png)
+### Crearcion de carpetas
+![Ejecución de mkdir](imgs/directorio.png)
+
 ### Secuencia de comandos final:
 * Creación de archivo.txt
 * Ejecución de cat archivo.txt
