@@ -24,3 +24,7 @@ para las llamadas al sistema requeridas en la guía:
 * **Llamada al sistema `read`:**
 
 ![Resultado de grep sobre fork y read](imgs/parteC.png)
+### Pregunta Reflexion:
+**¿Qué diferencia se observa entre la interfaz de una llamada al sistema y su implementación interna?**
+La interfaz es fija para el usuario y la implementación interna puede modificarse o mejorarse por los 
+desarrolladores del sistema operativo sin alterar el funcionamiento de las aplicaciones externas.
